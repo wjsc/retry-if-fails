@@ -1,0 +1,28 @@
+{
+  "name": "retry-if-fails",
+  "version": "1.0.1",
+  "description": "Utility module for retrying",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjsc/retry-if-fails"
+  },
+  "keywords": [
+    "retry",
+    "retries",
+    "async",
+    "functions",
+    "attempts",
+    "async-retry",
+    "retrying"
+  ],
+  "author": "wjsc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wjsc/retry-if-fails/issues"
+  },
+  "homepage": "https://github.com/wjsc/retry-if-fails#readme"
+}
